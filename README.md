@@ -10,7 +10,7 @@
 - ✨ My name is **Madhuri Rathi**
 - ✨ I'm a **Full Stack Web Developer**
 - ✨ **Hobbies**: Design, Travel, Cook
-- ✨ **Competencies**: JavaScript, React, TypeScript, Bootstrap, jQuery, MongoDB, Node.js, HTML, CSS, Tailwind, LINUX, SQL
+- ✨ **Competencies**: JavaScript, React, Node.js, Express.js HTML, CSS, TypeScript, Bootstrap, jQuery, MongoDB, Tailwind, LINUX, SQL
 
 
 #### 🌱 My React Projects
@@ -30,7 +30,7 @@
 
 - TinDog Startup Website - Bootstrap | Flexbox | HTML | CSS
 - Move IT - Bootstrap | CSS Grid | Semantic HTML | CSS
-- 
+- Qr Genrator - Node.js
 
 #### 📫 How to reach me
 
